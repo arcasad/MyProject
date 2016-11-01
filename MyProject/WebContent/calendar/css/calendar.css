@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+table {
+	width: 1000px; 
+	height: 550px;
+}
+
+td {
+	
+}
+
+.sun {
+	color: #ff0000;
+}
+.sat {
+	color: #0000ff;
+}
+.reserved {
+	background-color: #ff8000;
+}

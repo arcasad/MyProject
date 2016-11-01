@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+table {
+   border-style: none;
+   border-color: #479eb4;
+   border:2px;
+   text-align: center;
+}
+td {
+	width: 120px;
+	height: 30px;
+}
